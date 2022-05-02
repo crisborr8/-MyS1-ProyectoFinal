@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.26911;Remolino[1];Model;18.Otra_atraccion;[Decide] ¿Atraccion?;Unable to get value of property 'Decide.ConditionOrProbability'.
+0.26911;Remolino[1];Model;18.Otra_atraccion;[Decide] ¿Atraccion?;Referenced definition type 'ModelEntity' does not match executing type 'Vehicle'
+
