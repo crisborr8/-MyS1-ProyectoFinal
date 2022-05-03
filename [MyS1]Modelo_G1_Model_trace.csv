@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0.26911;Remolino[1];Model;18.Otra_atraccion;[Decide] ¿Atraccion?;Unable to get value of property 'Decide.ConditionOrProbability'.
-0.26911;Remolino[1];Model;18.Otra_atraccion;[Decide] ¿Atraccion?;Referenced definition type 'ModelEntity' does not match executing type 'Vehicle'
+0.214379935264713;Cliente.538;Model;318.Barco_rev;[Assign] Velocidad --;Unable to get value of property 'Assign.StateVariableName'.
+0.214379935264713;Cliente.538;Model;318.Barco_rev;[Assign] Velocidad --;Referenced definition type 'Vehicle' does not match executing type 'ModelEntity'
 
