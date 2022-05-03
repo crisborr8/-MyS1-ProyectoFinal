@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0.214379935264713;Cliente.538;Model;318.Barco_rev;[Assign] Velocidad --;Unable to get value of property 'Assign.StateVariableName'.
-0.214379935264713;Cliente.538;Model;318.Barco_rev;[Assign] Velocidad --;Referenced definition type 'Vehicle' does not match executing type 'ModelEntity'
+89.7605596644551;Cliente.1767;Taquilla1;3863.OnEnteredProcessing;[Delay] ProcessingTime;Invalid value '-0.01456633077151' Hours returned for property 'Delay.DelayTime'. The value cannot be negative.
+89.7605596644551;Cliente.1767;Taquilla1;3863.OnEnteredProcessing;[Delay] ProcessingTime;If the property is an expression and a probability distribution is being used, then verify that the distribution's range of values is bounded to not include negative quantities.
 
