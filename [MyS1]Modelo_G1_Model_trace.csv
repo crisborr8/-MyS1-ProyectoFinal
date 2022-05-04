@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.214379935264713;Cliente.538;Model;318.Barco_rev;[Assign] Velocidad --;Unable to get value of property 'Assign.StateVariableName'.
+0.214379935264713;Cliente.538;Model;318.Barco_rev;[Assign] Velocidad --;Referenced definition type 'Vehicle' does not match executing type 'ModelEntity'
+
